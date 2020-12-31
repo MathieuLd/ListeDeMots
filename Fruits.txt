@@ -1,3 +1,6 @@
 - Pomme 
 - Orange
 - Bannane
+- Poire
+- Mandarine
+- Mangue
