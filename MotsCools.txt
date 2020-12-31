@@ -2,3 +2,5 @@
 - Chaton
 - Radiateur
 - Anaconda
+- Pinacolada
+- zeste
