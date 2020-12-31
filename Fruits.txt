@@ -1,4 +1,3 @@
-Pomme 
-Orange
-Bannane
-LKJ
+- Pomme 
+- Orange
+- Bannane
