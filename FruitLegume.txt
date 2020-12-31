@@ -1,3 +1,4 @@
+FRUIS
 - Raisin
 - Figue
 - Fraise
@@ -9,3 +10,11 @@
 - Poire
 - Mandarine
 - Mangue
+
+LEGUMES
+- Epinard
+- Poireaux
+- Pomme de terre
+- Radis
+- Comcombre
+- Salade verte
