@@ -1,6 +1,20 @@
+FRUIS
+- Raisin
+- Figue
+- Fraise
+- Framboise
+- Ananas
 - Pomme 
 - Orange
 - Banane
 - Poire
 - Mandarine
 - Mangue
+
+LEGUMES
+- Epinard
+- Poireaux
+- Pomme de terre
+- Radis
+- Comcombre
+- Salade verte
